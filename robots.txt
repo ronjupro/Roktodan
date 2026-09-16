@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roktodan.vercel.app/sitemap.xml
